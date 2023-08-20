@@ -1,0 +1,1 @@
+print('tamim and sidra')
